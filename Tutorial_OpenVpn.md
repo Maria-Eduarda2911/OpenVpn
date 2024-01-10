@@ -1,14 +1,21 @@
-# Através do uso de script nesse breve tutorial será ensinado como criar um usuário de forma fácil até mesmo para leigos. 
+# Execução do script para criar usuário e certificados
 
-Executando o script : ./NewUserOpenvpn.sh
+Através do uso de script nesse breve tutorial será ensinado como criar um usuário de forma fácil até mesmo para leigos. 
+
+lINK PARA DOWNLOAD DOS ARQUIVOS > https://drive.google.com/drive/folders/1SOjwULVbyzv9r5TJOh6YDSsb4Ts9SX8B?usp=drive_link
+
+Executando o primeiro script : ./NewUserOpenvpn.sh
 
 1- Insira um nome para o usuário.
+
 2- Insira uma senha.
+
 3- Repita a senha.
 
 Pode ser q tenha q repetir tudo de novo por causa do script, mas será durante a execução, e não ter executar o script novamente
 Após a execução desses passos, outro script será executado pelo sistema.
-Em seguida, caso o primeiro script não tenha executado o comando bash para executar o segundo script, digite: ./ArqOvpn.sh
+
+ Em seguida, caso o primeiro script não tenha executado o comando bash para executar o segundo script, digite: ./ArqOvpn.sh
 
 Digite o nome do usuário.
 
@@ -21,9 +28,10 @@ Por segurança é melhor criar dentro do dirétorio do seu usuário.
 
 comando para criar a pasta,  os certificados e informações do usuários serão colocados nela: mkidr /home/seu_usuário/nome_da_pasta
 
-# Adaptar certificado para outros servidores +
+# Adaptar certificado para outros servidores 
 
-Caso não tenha o ArqBase.ovpn, segue o link do arquivo ArqBase.ovpn : https://drive.google.com/drive/folders/1SOjwULVbyzv9r5TJOh6YDSsb4Ts9SX8B?usp=drive_link
+ARQUIVO DE MODELO: ArqBase.ovpn
+
 Para realizar a adaptação é necessário encontrar os arquivos static.key e ca.crt.
 
 Para ir ao local de origem desses arquivos digite: cd /etc/openvpn
