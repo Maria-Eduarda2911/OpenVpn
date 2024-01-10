@@ -24,8 +24,9 @@ Após isso será criado o certificado.
 
 ATENÇÃO !
 
-Pode ser que seja necessário fazer algumas alterações dependo do nome do diretório que você criou, ou pode simplesmente criar uma pasta:
-Por segurança é melhor criar dentro do dirétorio do seu usuário.
+Será necessário fazer algumas alterações com o nome do diretório que você criou, caso queira criar uma pasta e não saiba, segue abaixo:
+
+*Por segurança é melhor criar dentro do dirétorio do seu usuário.
 
 comando para criar a pasta,  os certificados e informações do usuários serão colocados nela: mkidr /home/seu_usuário/nome_da_pasta
 
