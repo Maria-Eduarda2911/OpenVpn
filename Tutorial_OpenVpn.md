@@ -12,7 +12,8 @@ Executando o primeiro script : ./NewUserOpenvpn.sh
 
 3- Repita a senha.
 
-Pode ser q tenha q repetir tudo de novo por causa do script, mas será durante a execução, e não ter executar o script novamente
+Pode ser q tenha q repetir tudo de novo por causa do script, mas será durante a execução, e não ter executar o script novamente.
+
 Após a execução desses passos, outro script será executado pelo sistema.
 
  Em seguida, caso o primeiro script não tenha executado o comando bash para executar o segundo script, digite: ./ArqOvpn.sh
@@ -53,3 +54,5 @@ Pressione ctrl + 6 para selecionar
 Após ter feito a seleção, pressione crtl + k para “apagar”.
 
 Em seguida cole o conteúdo copiado.
+
+Lembre-se de colocar seu ip e a porta em: remote ip_do_seu_servidor sua_porta
