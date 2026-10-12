@@ -12,6 +12,8 @@
   <b>Scripts em Shell para automação ágil de criação, edição de usuários, geração de certificados e empacotamento de perfis (.ovpn) no OpenVPN.</b>
 </p>
 
+<img width="267" height="267" alt="image" src="https://github.com/user-attachments/assets/f0f878b8-4319-4aca-8e3f-20d0f7a2243c" />
+
 ---
 
 ## 📌 Sobre o Projeto
